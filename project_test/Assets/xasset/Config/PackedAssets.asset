@@ -193,7 +193,22 @@ MonoBehaviour:
     filter: 
     bundle: prefabs.bundle
   - asset: Assets/Scenes/SampleScene.unity
-    bundleMode: 4
+    bundleMode: 0
     addressMode: 0
     filter: 
     bundle: scenes_samplescene_unity.bundle
+  - asset: Assets/Prefabs/Sphere 1.prefab
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: prefabs.bundle
+  - asset: Assets/MessgeBox/MessageBox.prefab
+    bundleMode: 3
+    addressMode: 0
+    filter: 
+    bundle: messgebox.bundle
+  - asset: Assets/Prefabs/Sphere 2.prefab
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: prefabs.bundle

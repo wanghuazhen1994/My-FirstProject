@@ -19,6 +19,28 @@ MonoBehaviour:
     optimizeDependencies: 1
     options: 12544
   groups:
+  - name: UpdatePanel
+    id: 0
+    enabled: 1
+    deliveryMode: 0
+    assets:
+    - asset: Assets/MessgeBox
+      bundleMode: 3
+      addressMode: 0
+      filter: 
+      bundle: 
+    desc: 
+  - name: Scenes
+    id: 0
+    enabled: 1
+    deliveryMode: 0
+    assets:
+    - asset: Assets/Scenes
+      bundleMode: 0
+      addressMode: 0
+      filter: 
+      bundle: 
+    desc: 
   - name: Prefabs
     id: 0
     enabled: 1
@@ -29,10 +51,4 @@ MonoBehaviour:
       addressMode: 0
       filter: 
       bundle: 
-    desc: 
-  - name: Scenes
-    id: 0
-    enabled: 1
-    deliveryMode: 0
-    assets: []
     desc: 

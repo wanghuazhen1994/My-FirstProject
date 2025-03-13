@@ -60,6 +60,8 @@ namespace xasset
 
         public bool IsNew(Versions v)
         {
+            Debug.LogError("timestamp --- "+timestamp);
+            Debug.LogError("v.timestamp ---" + v.timestamp);
             return timestamp > v.timestamp;
         }
 

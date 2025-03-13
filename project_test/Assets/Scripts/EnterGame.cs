@@ -105,7 +105,7 @@ namespace xasset.samples
                 Debug.LogError(" getDownloadSizeAsync.downloadSize  message == " + message);
                 yield return Downloading();
             }
-
+            Debug.LogError("Assets.Versions --"+Assets.Versions);
             if (versions.IsNew(Assets.Versions))
             {
                 // 清理历史文件
