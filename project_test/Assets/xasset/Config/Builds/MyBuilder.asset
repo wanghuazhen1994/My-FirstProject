@@ -34,10 +34,5 @@ MonoBehaviour:
     id: 0
     enabled: 1
     deliveryMode: 0
-    assets:
-    - asset: Assets/Scenes
-      bundleMode: 4
-      addressMode: 0
-      filter: 
-      bundle: 
+    assets: []
     desc: 
