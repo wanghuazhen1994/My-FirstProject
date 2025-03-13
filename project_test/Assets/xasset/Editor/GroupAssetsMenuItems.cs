@@ -31,5 +31,11 @@ namespace xasset.editor
 			Settings.MakeSelectionAssetsGroupTo("Arts", "LoadAdditiveScene");
 			Debug.Log("Group to LoadAdditiveScene with build Arts.");
 		}
+		[MenuItem("Assets/Group To/MyBuilder/Prefabs")]
+		private static void GroupToMyBuilderPrefabs()
+		{
+			Settings.MakeSelectionAssetsGroupTo("MyBuilder", "Prefabs");
+			Debug.Log("Group to Prefabs with build MyBuilder.");
+		}
 	}
 }
