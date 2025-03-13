@@ -172,3 +172,28 @@ MonoBehaviour:
     addressMode: 0
     filter: 
     bundle: 
+  - asset: Assets/Prefabs/Cube.prefab
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: prefabs.bundle
+  - asset: Assets/Prefabs/Cylinder.prefab
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: prefabs.bundle
+  - asset: Assets/Prefabs/Quad.prefab
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: prefabs.bundle
+  - asset: Assets/Prefabs/Sphere.prefab
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: prefabs.bundle
+  - asset: Assets/Scenes/SampleScene.unity
+    bundleMode: 4
+    addressMode: 0
+    filter: 
+    bundle: scenes_samplescene_unity.bundle

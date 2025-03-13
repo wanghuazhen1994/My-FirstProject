@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playMode: 2
   player:
-    assetsSplitMode: 0
+    assetsSplitMode: 1
     updatable: 1
     updateInfoURL: http://10.0.40.186:280/Cloud/UpdateBundle
     downloadURL: http://10.0.40.186:280/Cloud/DownloadBundle
